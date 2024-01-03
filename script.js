@@ -7,5 +7,4 @@ for (let num of arr) {
         res.push(num);
     }
 }
-
 console.log(res.length);
